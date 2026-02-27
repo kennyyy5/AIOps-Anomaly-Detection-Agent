@@ -1,6 +1,4 @@
-Here is a clean, professional `README.md` you can paste directly into your project:
 
----
 
 # AIOps Anomaly Detection Agent
 
